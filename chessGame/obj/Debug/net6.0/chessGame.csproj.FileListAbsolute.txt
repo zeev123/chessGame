@@ -1,0 +1,15 @@
+C:\Users\ysrae\Desktop\languages\c#\chessGame\chessGame\bin\Debug\net6.0\chessGame.exe
+C:\Users\ysrae\Desktop\languages\c#\chessGame\chessGame\bin\Debug\net6.0\chessGame.deps.json
+C:\Users\ysrae\Desktop\languages\c#\chessGame\chessGame\bin\Debug\net6.0\chessGame.runtimeconfig.json
+C:\Users\ysrae\Desktop\languages\c#\chessGame\chessGame\bin\Debug\net6.0\chessGame.dll
+C:\Users\ysrae\Desktop\languages\c#\chessGame\chessGame\bin\Debug\net6.0\chessGame.pdb
+C:\Users\ysrae\Desktop\languages\c#\chessGame\chessGame\obj\Debug\net6.0\chessGame.csproj.AssemblyReference.cache
+C:\Users\ysrae\Desktop\languages\c#\chessGame\chessGame\obj\Debug\net6.0\chessGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ysrae\Desktop\languages\c#\chessGame\chessGame\obj\Debug\net6.0\chessGame.AssemblyInfoInputs.cache
+C:\Users\ysrae\Desktop\languages\c#\chessGame\chessGame\obj\Debug\net6.0\chessGame.AssemblyInfo.cs
+C:\Users\ysrae\Desktop\languages\c#\chessGame\chessGame\obj\Debug\net6.0\chessGame.csproj.CoreCompileInputs.cache
+C:\Users\ysrae\Desktop\languages\c#\chessGame\chessGame\obj\Debug\net6.0\chessGame.dll
+C:\Users\ysrae\Desktop\languages\c#\chessGame\chessGame\obj\Debug\net6.0\refint\chessGame.dll
+C:\Users\ysrae\Desktop\languages\c#\chessGame\chessGame\obj\Debug\net6.0\chessGame.pdb
+C:\Users\ysrae\Desktop\languages\c#\chessGame\chessGame\obj\Debug\net6.0\chessGame.genruntimeconfig.cache
+C:\Users\ysrae\Desktop\languages\c#\chessGame\chessGame\obj\Debug\net6.0\ref\chessGame.dll
