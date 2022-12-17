@@ -15,6 +15,7 @@ namespace chessGame
         static void Main(string[] args)
         {
             bool allTestSucsess = runTests();
+            //bool allTestSucsess = true;
             if (allTestSucsess)
             {
                 ChessGame chessBoard = new ChessGame();
@@ -1447,7 +1448,6 @@ namespace chessGame
                 int k = 0;
                 while (chessGame.getStatus() == "running" && k < this.arrayIndexes.Length)
                 {
-                    chessGame.setUserMsg("\n" + (chessGame.getIsWhiteTurn() ? "White " : "Black ") + "Piece please enter a move: ");
                     chessGame.handleTurn(this.arrayIndexes[k]);
                     chessGame.setIsWhiteTurn(!chessGame.getIsWhiteTurn());
                     chessGame.manageHistory();
@@ -1502,7 +1502,7 @@ namespace chessGame
                 if (!allTests[i].runTest())
                 {
                     allTestSecsess = false;
-                    WriteWithColor(allTests[i].getName() + " faild", "error");
+                    WriteWithColor(allTests[i].getName() + " faild", "error");   
                 }
             }
             if (allTestSecsess)

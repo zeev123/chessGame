@@ -1,0 +1,244 @@
+test 1 --Black winn
+h2h3
+b7b5
+h3h4
+b5b4
+a2a4
+b4a3
+a1a3
+g7g5
+a3a2
+g5g4
+a2a1
+g4g3
+b1a3
+e7e6
+a1b1
+d8f6
+h1h2
+f8c5
+b2b3
+f6f2
+
+test 2 --White winn
+h2h4
+a7a5
+h4h5
+a5a4
+h5h6
+a4a3
+h6g7
+b7b6
+d2d4
+a8a4
+c1h6
+a4d4
+g7f8
+4
+
+test 3 --Black winn
+a2a3
+a7a5
+b1c3
+b7b6
+d2d3
+g8h6
+c1h6
+e7e6
+d1c1
+f8d6
+c1d1
+e8g8
+d1b1
+a8a7
+b1a2
+b8a6
+g1h3
+g8h8
+g2g3
+d8h4
+f1g2
+f7f6
+a1d1
+a7a8
+d1a1
+a8a7
+e1g1
+c8b7
+a1b1
+h4g3
+b1c1
+g3g2
+
+test 4 --Black winn
+a2a3
+a7a5
+b1c3
+b7b6
+d2d3
+g8h6
+c1h6
+e7e6
+d1c1
+f8d6
+c1d1
+e8g8
+d1b1
+a8a7
+b1a2
+b8a6
+g1h3
+g8h8
+g2g3
+d8h4
+f1g2
+f7f6
+a1d1
+a7a8
+d1a1
+a8a7
+e1g1
+c8b7
+a1b1
+h4g3
+b1c1
+g3d3
+g1h1
+d3c3
+h1g1
+c3c2
+g1h1
+c2c1
+f2f3
+a7a8
+h3f2
+a8a7
+g2h3
+a7a8
+h3g4
+c1f1
+
+test 5 -- Draw because three repitition
+b1c3
+b8c6
+a1b1
+a8b8
+b1a1
+b8a8
+a1b1
+a8b8
+b1a1
+b8a8
+a1b1
+a8b8
+
+test 6 -- Draw because black has not enough power to winn
+start point
+   A  B  C  D  E  F  G  H
+8  -- BN -- -- BK -- -- --
+7  -- -- -- -- WP -- -- --
+6  -- -- -- -- -- -- -- --
+5  -- -- -- -- -- -- -- --
+4  -- -- -- -- -- -- -- --
+3  -- -- -- -- -- -- -- --
+2  -- -- -- -- -- -- -- --
+1  -- WN -- -- WK -- -- --
+b1c3
+e8e7
+c3d5
+e7e6
+e1e2
+e6d5
+
+test 7 -- Draw because white has not enough power to winn
+start point
+   A  B  C  D  E  F  G  H
+8  -- BN -- -- BK -- -- --
+7  -- -- -- -- WP -- -- --
+6  -- -- -- -- -- -- -- --
+5  -- -- -- -- -- -- -- --
+4  -- -- -- -- -- -- -- --
+3  -- -- -- -- -- -- -- --
+2  -- -- -- -- -- -- -- --
+1  -- WN -- -- WK -- -- --
+e1e2
+e8e7
+e2d3
+b8c6
+d3c4
+c6b4
+c4b4
+
+test 8 -- Black winn
+a2a3
+e7e6
+a1a2
+d8f6
+a3a4
+f8c5
+a2a1
+c5f2
+
+test 9 -- White winn
+b1c3
+a7a6
+f2f4
+a8a7
+f4f5
+a7a8
+d2d3
+e7e5
+f5e6
+h7h6
+c1h6
+a6a5
+e2e4
+a8a7
+d1f3
+b7b6
+e1c1
+f8a3
+f3f7
+													  
+test 10 -- Draw because we got king vs king
+start point
+   A  B  C  D  E  F  G  H
+8  -- -- -- -- BK -- -- --
+7  -- -- -- -- -- -- -- --
+6  -- -- -- -- -- -- -- --
+5  -- -- -- -- -- -- -- --
+4  -- -- -- -- -- -- -- --
+3  -- -- -- -- -- -- -- --
+2  -- -- -- -- BP -- -- --
+1  -- -- -- -- WK -- -- --
+e1e2
+
+test 11 -- Draw because 50 role --role is by 20 
+b1a3
+b8a6
+g1h3
+a6c5
+a3c4
+g8f6
+a2a3
+a7a6
+h3f4
+c5b3
+f4d3
+a8a7
+a1a2
+a7a8
+a2a1
+a8a7
+a1b1
+h8g8
+h1g1
+f6e4
+g1h1
+a7a8
+d3f4
+e4g3
+h1g1
+g8h8
+c4e5
+a8a7
