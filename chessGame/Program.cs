@@ -15,7 +15,6 @@ namespace chessGame
         static void Main(string[] args)
         {
             bool allTestSucsess = runTests();
-            //bool allTestSucsess = true;
             if (allTestSucsess)
             {
                 ChessGame chessBoard = new ChessGame();
